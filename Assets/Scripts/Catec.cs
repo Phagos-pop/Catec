@@ -6,7 +6,7 @@ public class Catec : MonoBehaviour
 {
     [SerializeField] private List<Sprite> sprites;
 
-    public void NextSprite()
+    public void StartAnimation()
     {
 
     }

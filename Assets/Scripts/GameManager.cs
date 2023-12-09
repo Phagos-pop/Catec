@@ -14,6 +14,6 @@ public class GameManager : MonoBehaviour
 
     private void Catec_Click()
     {
-        _catec.NextSprite();
+        _catec.StartAnimation();
     }
 }
